@@ -1,0 +1,6 @@
+Version 0
+
+Standard Local Search in Python: 500Q took 63 seconds
+Our code: 500Q took 354 seconds
+
+
